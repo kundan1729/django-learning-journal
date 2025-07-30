@@ -96,6 +96,6 @@ This project is intended for personal and educational use. Feel free to fork it,
 
 Happy Learning\! 🚀
 
-— *  Kundan Kumar*
+—  *Kundan Kumar*
 
 -----
